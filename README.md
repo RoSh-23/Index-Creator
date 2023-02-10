@@ -32,6 +32,6 @@
 + The **opt.txt** file in this repository contains the index which is alphabetically sorted. 
 + Some Screenshots: :arrow_heading_down:
     ![image of terms to be indexed](/assets/images/terms.JPG)
-    ![image of text on which index is created(/assets/images/text.jpg)
-    ![image of output index](/assets/images/output.jpg)
-    ![image of book section for verification](/assets/images/somerVBook.jpg)
+    ![image of text on which index is created(/assets/images/text.JPG)
+    ![image of output index](/assets/images/output.JPG)
+    ![image of book section for verification](/assets/images/somerVBook.JPG)
