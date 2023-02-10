@@ -12,7 +12,7 @@
     4. The resultant AVL trees are *traversed in-order* to produce the index.  
 
 ## Usage :hammer_and_wrench:
-<br> **Note** :triangular_flag_on_post: - **GCC compiler** should be downloaded on your machine <br> 
+<br> **Note** :triangular_flag_on_post: - **GCC compiler** should be downloaded on your machine. <br> 
 + On **Windows** 
     1. Save the source code for this project & compile it. 
     2. Open the command prompt and type <br>
@@ -22,7 +22,7 @@
     2. Open the linux terminal and type <br>
         ./object_file_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
 + **Where** 
-    1. inpt_file_1.txt: contains all the terms which need to be indexed from the text. Each term on a new line. 
-    2. inpt_file_2.txt: contains the text on which index has to be created. 
-    3. output_file_1.txt: file where the resultant index will be saved. 
+    1. *inpt_file_1.txt*: contains all the terms which need to be indexed from the text. Each term on a new line. 
+    2. *inpt_file_2.txt*: contains the text on which index has to be created. 
+    3. *output_file_1.txt*: file where the resultant index will be saved. 
 ## Example
