@@ -2,7 +2,7 @@
 
 + This project creates an index that is similar to a **text book index :bookmark_tabs: in that it contains terms and page numbers**. :open_book: 
 + It uses a text and a list of terms that need to be indexed to produce an **alphabetical index** :capital_abcd:. 
-+ This project was inspired by problem 5.2.11 from the book :blue_book: *"Data Structures using C and C++, 2<sup>nd</sup>" edition* by Langsam, Augenstein, and Tenenbaum. 
++ This project was inspired by problem 5.2.11 from the book :blue_book: *"Data Structures using C and C++, 2<sup>nd</sup> edition* by Langsam, Augenstein, and Tenenbaum. 
 + I've used and implemented :palm_tree:**AVL trees and Tries**:deciduous_tree: as my data structures.
 + To create this project, I drew on concepts from both generic programming and object-oriented programming. 
 + The **process** for creating the index is as follows :arrow_heading_down:
@@ -23,7 +23,7 @@
         ./object_file_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
 + **Where** 
     1. *inpt_file_1.txt*: contains all the terms which need to be indexed from the text. Each term on a new line. 
-    2. *inpt_file_2.txt*: contains the text on which index has to be created. 
+    2. *inpt_file_2.txt*: contains the text on which index has to be created with each new page delimited by *10 '@'* symbols.  
     3. *output_file_1.txt*: file where the resultant index will be saved. 
 ## Example
 + I have run this program on the book *"Software Engineering, 10<sup>th</sup> edition"* written by Ian Somerville. 
