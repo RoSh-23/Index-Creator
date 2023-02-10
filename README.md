@@ -31,7 +31,7 @@
 + The **terms.txt** file in this repository contains the list of words on which I have created the index. 
 + The **opt.txt** file in this repository contains the index which is alphabetically sorted. 
 + Some Screenshots: :arrow_heading_down:
-    ![image of terms to be indexed](/assets/images/terms.jpg)
+    ![image of terms to be indexed](/assets/images/terms.JPG)
     ![image of text on which index is created(/assets/images/text.jpg)
     ![image of output index](/assets/images/output.jpg)
-    ![image of books section which to verify](/assets/images/somerVBook.jpg)
+    ![image of book section for verification](/assets/images/somerVBook.jpg)
