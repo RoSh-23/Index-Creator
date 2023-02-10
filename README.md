@@ -1,4 +1,7 @@
 # Index-Creator
+
+# # # Hi there 
+
 <br>This project creates an index that is similar to a text book index in that it contains terms and page numbers. <br>
 It uses a text and a list of terms that need to be indexed to produce an alphabetical index. <br>
 This project was inspired by problem 5.2.11 from the book "Data Structures using C and C++" by Langsam, Augenstein, and Tenenbaum. <br>
