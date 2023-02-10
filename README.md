@@ -1,4 +1,4 @@
-# Index-Creator
+# Index-Creator ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <br>This project creates an index that is similar to a text book index in that it contains terms and page numbers. <br>
 It uses a text and a list of terms that need to be indexed to produce an alphabetical index. <br>
@@ -8,6 +8,6 @@ To create this project, I drew on concepts from both generic programming and obj
 <br>
 The process for creating the index is as follows 
 
-# How to run it.
+# How to run it?
 
 # The example that I used
