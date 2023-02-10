@@ -12,6 +12,17 @@
     4. The resultant AVL trees are *traversed in-order* to produce the index.  
 
 ## Usage 
-+ On <img height=100 width=200 src="https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?rect=67%2C364%2C1665%2C1040&w=880&fit=crop&fm=jpg&q=70&auto=format&h=548">
-+ On <img height=100 width=200 src="https://bloximages.newyork1.vip.townnews.com/redandblack.com/content/tncms/assets/v3/editorial/4/59/45940eb2-5403-11e9-a843-db0e4491cc90/5ca13d8453042.image.jpg">
+<br> **Note**: Prerequisite: GCC compiler should be downloaded on your machine <br> 
++ On Windows 
+    1. Save the source code for this project & compile it. 
+    2. Open the command prompt and type <br>
+        name_of_executable_file inpt_file_1.txt inpt_file_2.txt output_file_1.txt
++ On Linux
+    1. Save the source code for this project & compile it. 
+    2. Open the linux terminal and type <br>
+        ./object_file_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
++ Where 
+    1. inpt_file_1.txt: contains all the terms which need to be indexed from the text. Each term on a new line. 
+    2. inpt_file_2.txt: contains the text on which index has to be created. 
+    3. output_file_1.txt: file where the resultant index will be saved. 
 ## Example
