@@ -11,17 +11,17 @@
     3. The output file from phase 2 is the file being processed in this step. Every word is scanned, and if it is discovered in a trie of terms, it is added to one AVL tree, and the its page number is added to another. The *AVL tree of terms and page numbers* are connected.
     4. The resultant AVL trees are *traversed in-order* to produce the index.  
 
-## Usage 
-<br> **Note**: Prerequisite: GCC compiler should be downloaded on your machine <br> 
-+ On Windows 
+## Usage :hammer_and_wrench:
+<br> **Note** :triangular_flag_on_post: - **GCC compiler** should be downloaded on your machine <br> 
++ On **Windows** 
     1. Save the source code for this project & compile it. 
     2. Open the command prompt and type <br>
         name_of_executable_file inpt_file_1.txt inpt_file_2.txt output_file_1.txt
-+ On Linux
++ On **Linux**
     1. Save the source code for this project & compile it. 
     2. Open the linux terminal and type <br>
         ./object_file_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
-+ Where 
++ **Where** 
     1. inpt_file_1.txt: contains all the terms which need to be indexed from the text. Each term on a new line. 
     2. inpt_file_2.txt: contains the text on which index has to be created. 
     3. output_file_1.txt: file where the resultant index will be saved. 
