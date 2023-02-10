@@ -8,6 +8,6 @@ To create this project, I drew on concepts from both generic programming and obj
 <br>
 The process for creating the index is as follows 
 
-# How to run it?
+### How to run it?
 
-# The example that I used
+### The example that I used
