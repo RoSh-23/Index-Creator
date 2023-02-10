@@ -1,6 +1,6 @@
 # Index-Creator :orange_book:
 
-+ This project creates an index that is similar to a **text book index :bookmark_tabs: in that it contains terms (words) and corresponding page numbers on which these words are present.**. :open_book: 
++ This project creates an index that is similar to a **text book index :bookmark_tabs: in that it contains terms (words) and corresponding page numbers on which these terms are present.**. :open_book: 
 + It uses a text and a list of terms that need to be indexed to produce an **alphabetical index** :capital_abcd:. 
 + This project was inspired by problem 5.2.11 from the book :blue_book: *"Data Structures using C and C++, 2<sup>nd</sup> edition* by Langsam, Augenstein, and Tenenbaum. 
 + I've used and implemented :palm_tree:**AVL trees and Tries**:deciduous_tree: as my data structures.
