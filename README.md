@@ -31,3 +31,4 @@
 + The **terms.txt** file in this repository contains the list of words on which I have created the index. 
 + The **opt.txt** file in this repository contains the index which is alphabetically sorted. 
 + Some Screenshots: :arrow_heading_down:
+    
