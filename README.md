@@ -11,6 +11,6 @@
     3. The output file from phase 2 is the file being processed in this step. Every word is scanned, and if it is discovered in a trie of terms, it is added to one AVL tree, and the its page number is added to another. The *AVL tree of terms and page numbers* are connected.
     4. The resultant AVL trees are *traversed in-order* to produce the index.  
 
-## How to run it?
+## Usage 
 
-## The example that I used
+## Example
