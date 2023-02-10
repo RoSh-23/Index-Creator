@@ -1,4 +1,4 @@
-# Index-Creator
+# Index-Creator :orange_book:
 
 + This project creates an index that is similar to a **text book index :bookmark_tabs: in that it contains terms and page numbers**. :open_book: 
 + It uses a text and a list of terms that need to be indexed to produce an **alphabetical index** :capital_abcd:. 
