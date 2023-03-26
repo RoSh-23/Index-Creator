@@ -20,7 +20,7 @@
 + On **Linux**
     1. Save the source code for this project & compile it. 
     2. Open the linux terminal and type <br>
-        ./object_file_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
+        ./program_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
 + **Where** 
     1. *inpt_file_1.txt*: contains all the terms which need to be indexed from the text. Each term on a new line. 
     2. *inpt_file_2.txt*: contains the text on which index has to be created with each new page delimited by *10 '@'* symbols.  
