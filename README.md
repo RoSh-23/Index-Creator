@@ -4,7 +4,7 @@
 + It uses a text and a list of terms that need to be indexed to produce an **alphabetical index** :capital_abcd:. 
 + This project was inspired by problem 5.2.11 from the book :blue_book: *"Data Structures using C and C++, 2<sup>nd</sup> edition* by Langsam, Augenstein, and Tenenbaum. 
 + I've used and implemented :palm_tree:**AVL trees and Tries**:deciduous_tree: as my data structures.
-    <br>**Note** :triangular_flag_on_post: I have refered to the book "Data Structures using C & C++ , 2<sup>nd</sup> ed." to write code for AVL Trees balancing and refered to internet resources to implement code for Tries. 
+    <br>**Note** :triangular_flag_on_post: I have referred to the book "Data Structures using C & C++ , 2<sup>nd</sup> ed." to write code for AVL Trees and referred to internet resources to write code for Tries. 
 + To create this project, I drew on concepts from both generic programming and object-oriented programming. 
 + The **process** for creating the index is as follows :arrow_heading_down:
     1. All *special characters* from the text, including $,%,!, and others, were removed using simple tests of ASCII values.
