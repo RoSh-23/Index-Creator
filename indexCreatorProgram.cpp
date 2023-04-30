@@ -12,6 +12,11 @@
  *					- Terms and page numbers are alphabetically arranged.
  **/
 
+/*
+	IMP. NOTE: The code for AVL Trees was written by referring to the book -- "Data Structures Using C & C++, 2nd Ed."
+	IMP. NOTE: The code for Tries was written by referring to Internet resources" 
+*/
+
 /**
  * 	Author: Rohan Shah
  * 	Start Date: 07th February 2023
