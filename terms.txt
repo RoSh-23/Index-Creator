@@ -65,8 +65,6 @@ guidelines
 configuration
 management
 engineering
-UML
-TDD
 deadlines
 debugging
 decentralized
