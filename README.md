@@ -13,13 +13,13 @@
     4. The resultant AVL trees are *traversed in-order* to produce the index.  
 
 ## Usage :hammer_and_wrench:
-<br> **Note** :triangular_flag_on_post: - **GCC compiler** should be downloaded on your machine. <br> 
+<br> **Note** :triangular_flag_on_post: - **GCC compiler for C++ i.e. g++** should be downloaded on your machine. <br> 
 + On **Windows** 
-    1. Save the source code for this project & compile it. 
+    1. Save the source code for this project & compile it using g++. 
     2. Open the command prompt and type <br>
         name_of_executable_file inpt_file_1.txt inpt_file_2.txt output_file_1.txt
 + On **Linux**
-    1. Save the source code for this project & compile it. 
+    1. Save the source code for this project & compile it using g++.
     2. Open the linux terminal and type <br>
         ./program_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
 + **Where** 
