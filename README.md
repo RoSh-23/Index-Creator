@@ -14,6 +14,7 @@
 
 ## Usage :hammer_and_wrench:
 <br> **Note** :triangular_flag_on_post: - **GCC compiler for C++ i.e. g++** should be downloaded on your machine. <br> 
+<br> **Note** :triangular_flag_on_post: - **Works fine only if words to be indexed are expressed as lowercase alphabets (no special symbols)** <br> 
 + On **Windows** 
     1. Save the source code for this project & compile it using g++. 
     2. Open the command prompt and type <br>
