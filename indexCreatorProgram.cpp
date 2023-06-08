@@ -86,6 +86,20 @@ public:
 		root = temp;
 	}
 
+    // a function to check is a key is in correct format or not
+    bool isKeyValid(string key)
+    {
+        bool isValid = true;
+        for(int i = 0; i < key.length(); i++)
+        {
+            if(key[i] > 'z')
+                isValid = false;
+            if(key[i] < 'a')
+                isValid = false;
+        }
+        return isValid;
+    }
+
 	// a function to insert a key into the trie
 	void insertKey(string insertKey)
 	{
@@ -113,6 +127,11 @@ public:
 	// output: true if found, false otherwise
 	bool searchKey(string serKey)
 	{
+        if(isKeyValid(serKey) == false)
+        {
+            return false;
+        }
+
 		NodeOfTrie *travNode = root;
 
 		// traverse the key
@@ -729,7 +748,8 @@ int main(int argc, char *argv[])
 	{
 		cout << "\n\nINSUFFCIENT ARGUMENTS PASSED !!!\n";
 		cout << "\nUSE: name_of_executable_file file_1.txt file_2.txt file_3.txt\n\n";
-		cout << "File 1: - Contains words to be indexed on each new line.(Ensure that there is no space after word ends) \n";
+		cout << "File 1: - Contains major terms and sub terms on each new line.\n";
+ 		cout << "        - Sub terms are indented below their major terms.\n";
   		cout << "File 2: - Contains the text to be processed.\n";
  		cout <<	"        - New pages are indicated by 10 hyphens in a row ('-')\n";
 		cout << "File 3: - The file in which the index is to be saved.\n";
