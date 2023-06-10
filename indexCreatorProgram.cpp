@@ -743,6 +743,9 @@ int main(int argc, char *argv[])
 	cout << "+-----------------+";
 	cout << "\n| INDEX GENERATOR |\n";
 	cout << "+-----------------+";
+	cout << "\n*****Points to remember*****\n";
+	cout << "1. Can index only simple words (words with only one term in it like industrial) and not compound words (like industrial revolution).\n";
+	cout << "2. All words to be indexed should be present in the terms.txt file on new line with no trailing spaces.\n";
 
 	if(argc < 4)
 	{
