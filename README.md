@@ -24,7 +24,7 @@
     2. Open the linux terminal and type <br>
         ./program_name inpt_file_1.txt inpt_file_2.txt output_file_1.txt 
 + **Where** 
-    1. *inpt_file_1.txt*: contains all the terms which need to be indexed from the text. Each term on a new line. 
+    1. *inpt_file_1.txt*: contains all the words which need to be indexed from the text. Each term on a new line. 
     2. *inpt_file_2.txt*: contains the text on which index has to be created with each new page delimited by *10 '@'* symbols.  
     3. *output_file_1.txt*: file where the resultant index will be saved. 
 ## Example
