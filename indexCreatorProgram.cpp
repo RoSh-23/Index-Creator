@@ -753,7 +753,7 @@ int main(int argc, char *argv[])
 		cout << "\nUSE: name_of_executable_file file_1.txt file_2.txt file_3.txt\n\n";
 		cout << "File 1: - Contains words to be indexed on each new line.(ensure no space after the word)\n";
   		cout << "File 2: - Contains the text to be processed.\n";
- 		cout <<	"        - New pages are indicated by 10 hyphens in a row ('-')\n";
+ 		cout <<	"        - New pages are indicated by 10 @ in a row ('@')\n";
 		cout << "File 3: - The file in which the index is to be saved.\n";
 		exit(1);
 	}
